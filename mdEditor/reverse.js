@@ -24,7 +24,7 @@ function generateMdFilesFromJson(jsonFilePath) {
 
     // Iterate over each key-value pair in the JSON object
     for (const [key, value] of Object.entries(jsonData)) {
-        if(keys && !keys.includes(key)) continue;
+        // if(keys && !keys.includes(key)) continue;
         // Generate the Markdown content
         const markdownContent = convertToMarkdown(value);
 
