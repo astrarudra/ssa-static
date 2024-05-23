@@ -6,7 +6,7 @@ Usage - It will generate MD files with keys from all the JSON files in the curre
 
 /* USER INPUT */
 const keys = ["ashramShort", "satsangShort", "ashram", "satsang", "gallery"];
-const file = 'en.json';
+const file = 'output.json';
 
 /* Script Begin */
 const fs = require('fs');
@@ -14,7 +14,7 @@ const path = require('path');
 
 // Function to replace double spaces with line breaks
 function convertToMarkdown(content) {
-    return content.replace(/  /g, '\n');
+    return content.replace(/\\n/g, '\n');
 }
 
 // Main function to generate Markdown files from JSON input
