@@ -15,7 +15,7 @@ function readFilesInDirectory(dir) {
 // Function to read file content and convert line breaks
 function readFileContent(filePath) {
     const content = fs.readFileSync(filePath, 'utf8');
-    return content.replace(/\n/g, '  ');
+    return content.replace(/\n/g, '\\n');
 }
 
 // Main function to generate JSON object
