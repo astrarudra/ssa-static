@@ -1,9 +1,8 @@
 // run in console of imgur.com
 
-const images = ["iHTEf6M.jpg", "Qiyck6J.jpg", "WTkuMAc.jpg", "Xqs7ZeO.jpg", "exmQxKL.jpg", "nq4dnno.jpg", "spRRsHZ.jpg", "h92QQtq.jpg", "JsDAteW.jpg", "OZZHkxU.jpg", "sBAwpBk.jpg", "ZMrS24h.jpg", "9M0kptR.jpg", "nWRxydF.jpg", "gH9U5L8.jpg", "hx3TpbM.jpg"]
-
-
-const BASE = 'https://i.imgur.com/';
+// generate array [1,2,3,4, ....n]
+const images = Array.from({ length: 86 }, (_, i) => (i + 1) + '.jpg');
+const BASE = 'https://astrarudra.github.io/ssa-static/prod/assets/albums/guruji/';
 
 // Function to get image dimensions
 async function getImageDimensions(url) {
@@ -18,7 +17,7 @@ async function getImageDimensions(url) {
 // Function to generate thumbnail URL
 function generateThumbnailUrl(url) {
   const [key, ext] = url.split('.');
-  return `${BASE}${key}l.${ext}`;
+  return `${BASE}${key}t.${ext}`;
 }
 
 // Asynchronous function to fetch dimensions for all images
