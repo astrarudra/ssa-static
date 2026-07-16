@@ -1,6 +1,6 @@
 # Mobile app OTA (`prod/mobile-app-ota`)
 
-Self-hosted **Expo Updates** assets for [Astrax-sadhan-sangha-app](https://github.com/AtanuDebbarma/Astrax-sadhan-sangha-app) (or the org fork), served from the same GitHub Pages CDN as site content:
+Self-hosted **Expo Updates** assets for the Sadhan Sangha Ashram mobile app ([Ax108/ssa-app](https://github.com/Ax108/ssa-app)), served from the same GitHub Pages CDN as site content:
 
 `https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/`
 
@@ -36,7 +36,7 @@ prod/mobile-app-ota/
 
 1. Bump / confirm `expo.version` only when natives change (JS-only OTAs keep the same version).
 2. Native binary must already include `expo-updates` + matching `runtimeVersion` + `updates.url`.
-3. From `[ssa-app](https://github.com/Ax108/ssa-app)` (this folder is a sibling of `ssa-static`):
+3. From [Ax108/ssa-app](https://github.com/Ax108/ssa-app) (clone next to this `ssa-static` repo, or pass `--out`):
 
 | Script                       | What it stages here            |
 | ---------------------------- | ------------------------------ |
@@ -46,10 +46,10 @@ prod/mobile-app-ota/
 
 Both platform folders live in **this** repo on GitHub Pages; export is per-platform because bundles differ.
 
-4. Commit + push **this** `ssa-static` branch/PR so GitHub Pages updates.
+4. Commit + push **this** [astrarudra/ssa-static](https://github.com/astrarudra/ssa-static) repo so GitHub Pages updates (deploy branch is **`release`**).
 5. Open the store/dev build — on next cold start it checks the manifest, downloads assets, and applies the update on the following relaunch (unless the app calls `reloadAsync`).
 
-Full app-side notes: `[ssa-app](https://github.com/Ax108/ssa-app)/docs/ota-self-host.md`.
+Full app-side notes: [ssa-app/docs/ota-self-host.md](https://github.com/Ax108/ssa-app/blob/main/docs/ota-self-host.md).
 
 ## Runtime compatibility
 
