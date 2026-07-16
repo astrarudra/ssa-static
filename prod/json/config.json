@@ -1,13 +1,11 @@
 
 {
-  "version": 1.2,
+  "version": 1.3,
   "CONSTS": {
       "ytPList": "https://youtube.com/playlist?list=",
       "ytEmbed": "https://youtube.com/embed/",
-      "gitAssetBase": "https://astrarudra.github.io/ssa-static/prod/assets/",
-      "spotifyPL": "https://open.spotify.com/embed/show/2ZObyJtMT9202nOOIazkmv?utm_source=generator&theme=0",
-      "spotifyPLTitle": "Spotify Satsang Playlist"
-  },
+      "gitAssetBase": "https://astrarudra.github.io/ssa-static/prod/assets/"
+    },
   "primaryImgs": {
       "guruji":{
         "src":"guruji.jpg",
@@ -70,7 +68,8 @@
   },
   "yt": {
       "channel": "@SadhanSangha",
-      "podcast": "videoseries?list=PL_MOImlZCzxiSaSvbvJnzbP0aoYB8cnKN",
+      "podcast": "videoseries?list=PLGFZyvZNXM-A",
+      "bhajan": "videoseries?list=PL_MOImlZCzxiyPfQEo8DV64tTO6gBKTpb",
       "satsangHeaderVid": "srn9_-36LBI?start=645",
       "playlists": [
           {"l": "PL_MOImlZCzxhQWEq9STDkIe7uN1Vtds37","t": "Satsangs - 2024 Jan & Feb","st": "'24 Jan/Feb"}, 
@@ -84,8 +83,10 @@
           {"l": "PL_MOImlZCzxgIoeZLSb-cyVuAQToQbzVB","t": "Satsangs - 2024 October","st": "'24 October"},
           {"l": "PL_MOImlZCzxi3tx1rJGlyr7xBCepW26Ff","t": "Satsangs - 2024 Nov & Dec","st": "'24 Nov/Dec"},
           {"l": "PL_MOImlZCzxjIy_z_6tbgDGDyePuOggZi","t": "Video Satsangs - Classic","st": "'Classics"},
-          {"l": "PL_MOImlZCzxhpZJlPldSEwoNjxX6w-8hy","t": "Video Satsangs - 2024","st": "'24 Videos"},
-          {"l": "PL_MOImlZCzxiSaSvbvJnzbP0aoYB8cnKN","t": "Video Satsangs - 2025","st": "'25 Videos"}
+          {"l": "PL_MOImlZCzxhpZJlPldSEwoNjxX6w-8hy","t": "Video Satsangs - 2024","st": "'2024 Satsangs"},
+          {"l": "PLL4bnYXGwCcU","t": "Video Satsangs - 2025","st": "2025 Satsangs"},
+          {"l": "PLGFZyvZNXM-A","t": "Video Satsangs - 2026","st": "2026 Satsangs"},
+          {"l": "PL_MOImlZCzxiyPfQEo8DV64tTO6gBKTpb","t": "Bhajan - Devotional Songs","st": "Bhajan"}
       ]
   }
 }
