@@ -10,10 +10,10 @@ This is **separate** from content JSON (`prod/json/`) and does **not** use EAS U
 
 Expo Updates clients send `expo-platform: android|ios`. GitHub Pages is static and cannot branch on request headers, so we publish **one URL per platform**:
 
-| Platform | Manifest URL (baked into the native binary) |
-|----------|-----------------------------------------------|
-| Android | `.../prod/mobile-app-ota/android/manifest.json` |
-| iOS | `.../prod/mobile-app-ota/ios/manifest.json` |
+| Platform | Manifest URL (baked into the native binary)     |
+| -------- | ----------------------------------------------- |
+| Android  | `.../prod/mobile-app-ota/android/manifest.json` |
+| iOS      | `.../prod/mobile-app-ota/ios/manifest.json`     |
 
 Bundles and assets live under the same platform folder (`bundles/`, `assets/`).
 
@@ -34,17 +34,22 @@ prod/mobile-app-ota/
 
 ## Publish flow (from the mobile app repo)
 
-1. Bump / confirm `expo.version` (used as `runtimeVersion` via `appVersion` policy).
+1. Bump / confirm `expo.version` only when natives change (JS-only OTAs keep the same version).
 2. Native binary must already include `expo-updates` + matching `runtimeVersion` + `updates.url`.
-3. From `Astrax-sadhan-sangha-app`:
+3. From `[ssa-app](https://github.com/Ax108/ssa-app)` (this folder is a sibling of `ssa-static`):
 
-```bash
-bun run ota:export -- --platform android
-# copies into this repo under prod/mobile-app-ota/android/
-```
+| Script                       | What it stages here            |
+| ---------------------------- | ------------------------------ |
+| `bun run ota:export:android` | `prod/mobile-app-ota/android/` |
+| `bun run ota:export:ios`     | `prod/mobile-app-ota/ios/`     |
+| `bun run ota:export:all`     | both (android then ios)        |
+
+Both platform folders live in **this** repo on GitHub Pages; export is per-platform because bundles differ.
 
 4. Commit + push **this** `ssa-static` branch/PR so GitHub Pages updates.
 5. Open the store/dev build — on next cold start it checks the manifest, downloads assets, and applies the update on the following relaunch (unless the app calls `reloadAsync`).
+
+Full app-side notes: `[ssa-app](https://github.com/Ax108/ssa-app)/docs/ota-self-host.md`.
 
 ## Runtime compatibility
 
