@@ -1,6 +1,6 @@
 
 {
-  "version": 1.3,
+  "version": 1.4,
   "CONSTS": {
       "ytPList": "https://youtube.com/playlist?list=",
       "ytEmbed": "https://youtube.com/embed/",
@@ -47,10 +47,17 @@
   "contactDetails": {
       "location": "Sadhan Sangha Ashram, Haridwar Road, Veerbhadra, Rishikesh, Uttarakhand 249202",
       "gmap": "https://maps.app.goo.gl/fmuSMohkJcgPf7YR7",
-      "phone": "+91 135 2452522", 
+      "phone": "+91 8679570291", 
       "email": "contact@sadhansangha.org",
       "gmapEmbed": "https://google.com/maps/embed?pb=!1m14!1m8!1m3!1d6905.53012522406!2d78.2485447!3d30.0722681!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39093f52f2fccf5d%3A0x800ed8e1721cf8c6!2sSadhan%20Sangha%20Ashram!5e0!3m2!1sen!2sin!4v1715953540617!5m2!1sen!2sin",
       "gmapEmbedTitle": "Saghan Sangha Ashram Location Google Map"
+  },
+  "donationDetails": {
+      "accountName": "Sadhan Sangha Ashram Seva Samiti",
+      "accountNumber": "10608437924",
+      "ifsc": "SBIN0001827",
+      "swift": "SBININBB558",
+      "bankBranch": "State Bank of India, Virbhadra (Branch Code 1827)"
   },
   "socialLinks": {
       "fb": {"i": "logos:facebook", "l": "https://facebook.com/SadhanSangha"},
