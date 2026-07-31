@@ -1,12 +1,12 @@
 {
-  "id": "13ba84bf-c51b-4399-be55-46f18dd0a779",
-  "createdAt": "2026-07-16T22:43:09.381Z",
-  "runtimeVersion": "1.0.1",
+  "id": "8d7e9d95-6649-40ac-9816-3c167a48d633",
+  "createdAt": "2026-07-31T09:25:34.608Z",
+  "runtimeVersion": "1.0.2",
   "launchAsset": {
     "key": "bundle",
     "contentType": "application/javascript",
-    "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/ios/bundles/index-e93e6ab501445ff2e975d22ce74fbb76.hbc",
-    "hash": "PYDc_pP7TAFYjpOAyl00sHKCDPu4rkIVCzTOrD7K7RA"
+    "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/ios/bundles/index-2214a7a72acddfb15cb2578e37269253.hbc",
+    "hash": "lASIaVtcxUUQ9B0ZnSvN_hb8v9f0nGHkuieE9h9Dw4o"
   },
   "assets": [
     {
