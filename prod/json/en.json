@@ -29,7 +29,9 @@
         "donateIfsc": "IFSC Code",
         "donateSwift": "SWIFT Code",
         "donateBank": "Bank & Branch",
-        "copied": "Copied!"
+        "copied": "Copied!",
+        "storeUpdateMessage": "A new version of the app is available on the store.",
+        "storeUpdateAction": "Update"
     },
     "pages": {
         "home": "Home",

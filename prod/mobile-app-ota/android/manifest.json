@@ -1,241 +1,279 @@
 {
-  "id": "345f5d76-6aef-4d99-9a56-6665713c5fbf",
-  "createdAt": "2026-08-02T08:58:03.026Z",
-  "runtimeVersion": "1.0.2",
+  "id": "b8d4b527-80f2-4739-83f4-8629965b0666",
+  "createdAt": "2026-09-23T09:54:41.148Z",
+  "runtimeVersion": "1.1.0",
   "launchAsset": {
-    "key": "bundle",
+    "key": "f46f92044ea7e2fd9073e7788af2d20f33b8b1cac37a683a26018a5f2967404b",
+    "hash": "9G-SBE6n4v2Qc-d4ivLSDzO4scrDemg6JgGKXylnQEs",
     "contentType": "application/javascript",
-    "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/android/bundles/index-034ae4d2d3d16f01cc22e166b5d06dd0.hbc",
-    "hash": "kerTuB3M59a6zA9wrPMOC5E8pSPZyKuorcz0kRLgFFU"
+    "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/android/bundles/f46f92044ea7e2fd9073e7788af2d20f33b8b1cac37a683a26018a5f2967404b.hbc"
   },
   "assets": [
     {
       "key": "574cd4956a7c667dce6faba79b5a2582",
-      "contentType": "application/octet-stream",
+      "contentType": "font/ttf",
       "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/android/assets/assets/94f88ad194cab97ab95636b6a2b7028a",
-      "hash": "ijQ0DhDfk0jp9a4mLRDeylDZOSfKjHG_w8JbZiy3BKU"
+      "hash": "ijQ0DhDfk0jp9a4mLRDeylDZOSfKjHG_w8JbZiy3BKU",
+      "fileExtension": ".ttf"
     },
     {
       "key": "fab4533bd1a48da6aff80ebe240b2a32",
-      "contentType": "application/octet-stream",
+      "contentType": "image/png",
       "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/android/assets/assets/af31dc178130c510694f13b7c5057008",
-      "hash": "rxXE5JVWNEdF-Ur6bPcUhC8xrMuvv_rLszZFxbUrKLE"
+      "hash": "rxXE5JVWNEdF-Ur6bPcUhC8xrMuvv_rLszZFxbUrKLE",
+      "fileExtension": ".png"
     },
     {
       "key": "d8c0bde61ce4628c6880fc28e7edc617",
-      "contentType": "application/octet-stream",
+      "contentType": "font/ttf",
       "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/android/assets/assets/3f78af31cca60105799838a1a7a59fbd",
-      "hash": "CKnVtRPPlH4i7egemoQ72Nd2OmNETNIUhL_edmLMZUM"
+      "hash": "CKnVtRPPlH4i7egemoQ72Nd2OmNETNIUhL_edmLMZUM",
+      "fileExtension": ".ttf"
     },
     {
       "key": "8b44621d463c79543b4baa9f2811763b",
-      "contentType": "application/octet-stream",
+      "contentType": "font/ttf",
       "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/android/assets/assets/31b5ffea3daddc69dd01a1f3d6cf63c5",
-      "hash": "FvkimFh7qytGm8E8DfxtXRcbyhC60MkFOtFrwCO_cX0"
+      "hash": "FvkimFh7qytGm8E8DfxtXRcbyhC60MkFOtFrwCO_cX0",
+      "fileExtension": ".ttf"
     },
     {
       "key": "a671d15d99241d85d1ebba0855960bda",
-      "contentType": "application/octet-stream",
+      "contentType": "font/ttf",
       "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/android/assets/assets/140c53a7643ea949007aa9a282153849",
-      "hash": "pcrrTTlcXjLx1aMKyzgq68Zk8brf0UkxmQfyIV5OPiY"
+      "hash": "pcrrTTlcXjLx1aMKyzgq68Zk8brf0UkxmQfyIV5OPiY",
+      "fileExtension": ".ttf"
     },
     {
       "key": "adf50024368a72ab41257cb878086566",
-      "contentType": "application/octet-stream",
+      "contentType": "font/ttf",
       "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/android/assets/assets/ca4b48e04dc1ce10bfbddb262c8b835f",
-      "hash": "AriOrZGt5XENfKGO20Omllpx2TcywG8pDMB6bdJJ6Yc"
+      "hash": "AriOrZGt5XENfKGO20Omllpx2TcywG8pDMB6bdJJ6Yc",
+      "fileExtension": ".ttf"
     },
     {
       "key": "17f9316c6bf24ab9d1bf7213c4bbae4e",
-      "contentType": "application/octet-stream",
+      "contentType": "font/ttf",
       "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/android/assets/assets/b49ae8ab2dbccb02c4d11caaacf09eab",
-      "hash": "lNq58dWxPqB2nRJKLaDQJDPzuZ1t6loHwERqdxWBAMA"
+      "hash": "lNq58dWxPqB2nRJKLaDQJDPzuZ1t6loHwERqdxWBAMA",
+      "fileExtension": ".ttf"
     },
     {
       "key": "961b78ed3e444a7b3d2f9e9d57e8d532",
-      "contentType": "application/octet-stream",
+      "contentType": "font/ttf",
       "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/android/assets/assets/b06871f281fee6b241d60582ae9369b9",
-      "hash": "qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg"
+      "hash": "qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg",
+      "fileExtension": ".ttf"
     },
     {
       "key": "4272696bbed1d9ee713e0a11812abbba",
-      "contentType": "application/octet-stream",
+      "contentType": "font/ttf",
       "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/android/assets/assets/1f77739ca9ff2188b539c36f30ffa2be",
-      "hash": "xlG4pn0xkyBvYiw8Ow-8pKLycnEIxCErUsHiouhMmzE"
+      "hash": "xlG4pn0xkyBvYiw8Ow-8pKLycnEIxCErUsHiouhMmzE",
+      "fileExtension": ".ttf"
     },
     {
       "key": "02d3cc25e7846f652dfd0cbf2791ba0a",
-      "contentType": "application/octet-stream",
+      "contentType": "font/ttf",
       "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/android/assets/assets/605ed7926cf39a2ad5ec2d1f9d391d3d",
-      "hash": "PQavHzHNg6znomWgFLj7Xe4Vdw7KyPelVVUZDmJ-A8I"
+      "hash": "PQavHzHNg6znomWgFLj7Xe4Vdw7KyPelVVUZDmJ-A8I",
+      "fileExtension": ".ttf"
     },
     {
       "key": "e6b248a16ab442f4864f283ff991e8ea",
-      "contentType": "application/octet-stream",
+      "contentType": "font/ttf",
       "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/android/assets/assets/3b89dd103490708d19a95adcae52210e",
-      "hash": "BvTQCSPqJGl99d8LkphBdZkdi9JXdqAtUxu0AeOT7EI"
+      "hash": "BvTQCSPqJGl99d8LkphBdZkdi9JXdqAtUxu0AeOT7EI",
+      "fileExtension": ".ttf"
     },
     {
       "key": "33879ea12086e732d85f8e51730fb117",
-      "contentType": "application/octet-stream",
+      "contentType": "font/ttf",
       "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/android/assets/assets/370dd5af19f8364907b6e2c41f45dbbf",
-      "hash": "ZPn7YjaB8RImHpovl4JngkOfOSXeqPRKV9Hk25W6bP0"
+      "hash": "ZPn7YjaB8RImHpovl4JngkOfOSXeqPRKV9Hk25W6bP0",
+      "fileExtension": ".ttf"
     },
     {
       "key": "997adc0af9e5a5f603bf9871af964737",
-      "contentType": "application/octet-stream",
+      "contentType": "font/ttf",
       "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/android/assets/assets/adec7d6f310bc577f05e8fe06a5daccf",
-      "hash": "MfCZwT9uS6BfG0cb8XDLVJMklHQiKRc3LePKXPKeaho"
+      "hash": "MfCZwT9uS6BfG0cb8XDLVJMklHQiKRc3LePKXPKeaho",
+      "fileExtension": ".ttf"
     },
     {
       "key": "e091dcaa586fa396d94d0c4b2f09a3d9",
-      "contentType": "application/octet-stream",
+      "contentType": "font/ttf",
       "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/android/assets/assets/56c8d80832e37783f12c05db7c8849e2",
-      "hash": "vIRLWwLT862rtRTeTgwCCCUtMSNBO9A_Yof6RGrO6Fk"
+      "hash": "vIRLWwLT862rtRTeTgwCCCUtMSNBO9A_Yof6RGrO6Fk",
+      "fileExtension": ".ttf"
     },
     {
       "key": "90da103b96f0f24b6f44ed9d98e0a8d7",
-      "contentType": "application/octet-stream",
+      "contentType": "font/ttf",
       "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/android/assets/assets/e20945d7c929279ef7a6f1db184a4470",
-      "hash": "fh3QPdTOkLZYBSVUzXRZ3xZxZxc4mlUvpMbVal-JM-Y"
+      "hash": "fh3QPdTOkLZYBSVUzXRZ3xZxZxc4mlUvpMbVal-JM-Y",
+      "fileExtension": ".ttf"
     },
     {
       "key": "f4c514d8f78efec9471e75a8a09dd347",
-      "contentType": "application/octet-stream",
+      "contentType": "font/ttf",
       "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/android/assets/assets/b4eb097d35f44ed943676fd56f6bdc51",
-      "hash": "-iq30lV4GbK_5QCeRoRO-nFwzxd753NdQ6oqwSlfHVQ"
+      "hash": "-iq30lV4GbK_5QCeRoRO-nFwzxd753NdQ6oqwSlfHVQ",
+      "fileExtension": ".ttf"
     },
     {
       "key": "e697c29f77175729fe1b2e299b3d81a6",
-      "contentType": "application/octet-stream",
+      "contentType": "font/ttf",
       "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/android/assets/assets/6e435534bd35da5fef04168860a9b8fa",
-      "hash": "YeirpaTpgf4iz3yOi82-oAR251xiw38Bv37jM2HWhCg"
+      "hash": "YeirpaTpgf4iz3yOi82-oAR251xiw38Bv37jM2HWhCg",
+      "fileExtension": ".ttf"
     },
     {
       "key": "322f9ea35a8d98ea114bb8f161d7bdfa",
-      "contentType": "application/octet-stream",
+      "contentType": "font/ttf",
       "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/android/assets/assets/4e85bc9ebe07e0340c9c4fc2f6c38908",
-      "hash": "7xSfCL3S_wmk4shXNHa3sPP7sVtiOVSt5ZiZ5xdb7do"
+      "hash": "7xSfCL3S_wmk4shXNHa3sPP7sVtiOVSt5ZiZ5xdb7do",
+      "fileExtension": ".ttf"
     },
     {
       "key": "d5cb5e2b7264345f22a52d145a1fe0e2",
-      "contentType": "application/octet-stream",
+      "contentType": "font/ttf",
       "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/android/assets/assets/871378c6eab492a3e689a9385dc45a12",
-      "hash": "m8TZ9emU53S9w--amofadJr19QuGFHPvfRzD1vgikmc"
+      "hash": "m8TZ9emU53S9w--amofadJr19QuGFHPvfRzD1vgikmc",
+      "fileExtension": ".ttf"
     },
     {
       "key": "2d321e9ca92519e00446655a9220012d",
-      "contentType": "application/octet-stream",
+      "contentType": "font/ttf",
       "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/android/assets/assets/d2285965fe34b05465047401b8595dd0",
-      "hash": "P1Ad2wXHCCm7tRz-nKn_9X854GBFfCV7PM8l33Z_CHA"
+      "hash": "P1Ad2wXHCCm7tRz-nKn_9X854GBFfCV7PM8l33Z_CHA",
+      "fileExtension": ".ttf"
     },
     {
       "key": "d9d28209a047eaa628608e2aa9a0bbe2",
-      "contentType": "application/octet-stream",
+      "contentType": "font/ttf",
       "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/android/assets/assets/1681f34aaca71b8dfb70756bca331eb2",
-      "hash": "3Y7kA7vL9eWLd9ykrAPrr6E6KEo9h9jqnKSQQ1qG-kg"
+      "hash": "3Y7kA7vL9eWLd9ykrAPrr6E6KEo9h9jqnKSQQ1qG-kg",
+      "fileExtension": ".ttf"
     },
     {
       "key": "bb976f2477ae58467fe47b72e060ac3c",
-      "contentType": "application/octet-stream",
+      "contentType": "image/png",
       "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/android/assets/assets/778ffc9fe8773a878e9c30a6304784de",
-      "hash": "i2Gkx-9w3JJ1PwSUl2SC9m_UFQ7CPfx3KrZeEDc6-lU"
+      "hash": "i2Gkx-9w3JJ1PwSUl2SC9m_UFQ7CPfx3KrZeEDc6-lU",
+      "fileExtension": ".png"
     },
     {
       "key": "879d3d7844de6658e0779c0b33be8780",
-      "contentType": "application/octet-stream",
+      "contentType": "image/png",
       "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/android/assets/assets/c79c3606a1cf168006ad3979763c7e0c",
-      "hash": "kGZm3WiTRq2iMs42ia3vkHtCV_obWT8DY40rlJf2SIQ"
+      "hash": "kGZm3WiTRq2iMs42ia3vkHtCV_obWT8DY40rlJf2SIQ",
+      "fileExtension": ".png"
     },
     {
       "key": "2deb2497d6470ec3b788450e810679f9",
-      "contentType": "application/octet-stream",
+      "contentType": "image/png",
       "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/android/assets/assets/02bc1fa7c0313217bde2d65ccbff40c9",
-      "hash": "_6fuRbdkBbpzkhSVAI99aMneY5X0tpQdsGNGX244IyA"
+      "hash": "_6fuRbdkBbpzkhSVAI99aMneY5X0tpQdsGNGX244IyA",
+      "fileExtension": ".png"
     },
     {
       "key": "aac3aedd25c48e1a26afcd91ef523600",
-      "contentType": "application/octet-stream",
+      "contentType": "image/png",
       "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/android/assets/assets/35ba0eaec5a4f5ed12ca16fabeae451d",
-      "hash": "hM9es7ICUPaeDkczvrTaX0F_BoKJKlrRteYlcHU8IbE"
+      "hash": "hM9es7ICUPaeDkczvrTaX0F_BoKJKlrRteYlcHU8IbE",
+      "fileExtension": ".png"
     },
     {
       "key": "401109f84ce48097d777797a9a8f9d70",
-      "contentType": "application/octet-stream",
+      "contentType": "image/png",
       "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/android/assets/assets/0a328cd9c1afd0afe8e3b1ec5165b1b4",
-      "hash": "mtuMXvypMuK3MrKT2oE70uMZUiYwVrzp4lF_7A8LanY"
+      "hash": "mtuMXvypMuK3MrKT2oE70uMZUiYwVrzp4lF_7A8LanY",
+      "fileExtension": ".png"
     },
     {
       "key": "ab284ee0c76b11ea1437a3bfd574f56e",
-      "contentType": "application/octet-stream",
+      "contentType": "image/png",
       "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/android/assets/assets/3cd68ccdb8938e3711da2e8831b85493",
-      "hash": "yGu0he7mh-BsUA_EI09RpnhLRTDCrhHQx2SBEQvOMQU"
+      "hash": "yGu0he7mh-BsUA_EI09RpnhLRTDCrhHQx2SBEQvOMQU",
+      "fileExtension": ".png"
     },
     {
       "key": "3473fb2c444e8aae17ada911484952ac",
-      "contentType": "application/octet-stream",
+      "contentType": "image/png",
       "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/android/assets/assets/61ca7e64b7d605716c57706cef640b9a",
-      "hash": "0Dpc16Zu8QxRR5FvnVh4stCgpa1G9AWjHNmWfvqlWv0"
+      "hash": "0Dpc16Zu8QxRR5FvnVh4stCgpa1G9AWjHNmWfvqlWv0",
+      "fileExtension": ".png"
     },
     {
       "key": "a8f2bfabacf14a00e83b826ca37ac3a6",
-      "contentType": "application/octet-stream",
+      "contentType": "image/png",
       "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/android/assets/assets/aff2c65b39a296d4f7e96d0f58169170",
-      "hash": "q1YT0s5w-mfFkm6DE1NmSUUZn8GV-m_nbF_jzsRS4xo"
+      "hash": "q1YT0s5w-mfFkm6DE1NmSUUZn8GV-m_nbF_jzsRS4xo",
+      "fileExtension": ".png"
     },
     {
       "key": "bfd5e5401569736d3343b27a25d14736",
-      "contentType": "application/octet-stream",
+      "contentType": "image/png",
       "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/android/assets/assets/d8e7601e3df962f83c62371ac14964d8",
-      "hash": "xOVOagp95jaqFTN4-8YupKQWlb_t-Af5Dfexj_1zP2c"
+      "hash": "xOVOagp95jaqFTN4-8YupKQWlb_t-Af5Dfexj_1zP2c",
+      "fileExtension": ".png"
     },
     {
       "key": "ec2f131826b2f574459a733c1cdd9247",
-      "contentType": "application/octet-stream",
+      "contentType": "image/png",
       "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/android/assets/assets/0747a1317bbe9c6fc340b889ef8ab3ae",
-      "hash": "IyXFOnPlTEOMu8YN_92LUT1HG6QuL1ZxPvQEuV4Mofw"
+      "hash": "IyXFOnPlTEOMu8YN_92LUT1HG6QuL1ZxPvQEuV4Mofw",
+      "fileExtension": ".png"
     },
     {
       "key": "c3bd1d6346e133ee18f9fd45f5871211",
-      "contentType": "application/octet-stream",
+      "contentType": "image/png",
       "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/android/assets/assets/d84e297c3b3e49a614248143d53e40ca",
-      "hash": "sbwYEMoj4sOM12lxxDWR1yYWEGEkDYt5KwV1cZbdtSg"
+      "hash": "sbwYEMoj4sOM12lxxDWR1yYWEGEkDYt5KwV1cZbdtSg",
+      "fileExtension": ".png"
     },
     {
       "key": "95e60f6bb6ba11f4ae66fbb03ac47892",
-      "contentType": "application/octet-stream",
+      "contentType": "image/png",
       "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/android/assets/assets/1190ab078c57159f4245a328118fcd9a",
-      "hash": "y9-SE-VfZcSNB2rNhCO3ya7k8bgRAf9slaOMTNioZGE"
+      "hash": "y9-SE-VfZcSNB2rNhCO3ya7k8bgRAf9slaOMTNioZGE",
+      "fileExtension": ".png"
     },
     {
       "key": "dbe89edf126ed233a29b7df052d539cd",
-      "contentType": "application/octet-stream",
+      "contentType": "image/png",
       "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/android/assets/assets/78c625386b4d0690b421eb0fc78f7b9c",
-      "hash": "0FydMNefRaeOVYWi5-xnxqBqiD3ZE34dUFnoyHszznY"
+      "hash": "0FydMNefRaeOVYWi5-xnxqBqiD3ZE34dUFnoyHszznY",
+      "fileExtension": ".png"
     },
     {
       "key": "41512ebb05382a3c70a8041345a04108",
-      "contentType": "application/octet-stream",
+      "contentType": "image/png",
       "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/android/assets/assets/4403c6117ec30c859bc95d70ce4a71d3",
-      "hash": "unIvskv_CkxS5lbN8gXerFxd-F5briv20wcTvVDG1fc"
+      "hash": "unIvskv_CkxS5lbN8gXerFxd-F5briv20wcTvVDG1fc",
+      "fileExtension": ".png"
     },
     {
       "key": "580724925666a4ab58438eeff1083057",
-      "contentType": "application/octet-stream",
+      "contentType": "image/png",
       "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/android/assets/assets/069d99eb1fa6712c0b9034a58c6b57dd",
-      "hash": "UwD1C-NlnRfYzuho7E5sDT9OiZRP1YmdPCD2p2egRfU"
+      "hash": "UwD1C-NlnRfYzuho7E5sDT9OiZRP1YmdPCD2p2egRfU",
+      "fileExtension": ".png"
     },
     {
       "key": "411f1b2f397e927ce08fdc5fc6d82c93",
-      "contentType": "application/octet-stream",
+      "contentType": "image/png",
       "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/android/assets/assets/c3273c9e5321f20d1e42c2efae2578c4",
-      "hash": "bI8Rv9HH4idp3BNcFuzQ4FO7VVVNqIuWEdnPcdEhNvE"
+      "hash": "bI8Rv9HH4idp3BNcFuzQ4FO7VVVNqIuWEdnPcdEhNvE",
+      "fileExtension": ".png"
     },
     {
       "key": "89a867dede8e0b7c495626586a008044",
-      "contentType": "application/octet-stream",
+      "contentType": "image/png",
       "url": "https://astrarudra.github.io/ssa-static/prod/mobile-app-ota/android/assets/assets/286d67d3f74808a60a78d3ebf1a5fb57",
-      "hash": "XQdeDCh8T0RBtbXI_H6lzSfBG7YX7OoJdVlVvLGIkIM"
+      "hash": "XQdeDCh8T0RBtbXI_H6lzSfBG7YX7OoJdVlVvLGIkIM",
+      "fileExtension": ".png"
     }
   ],
   "metadata": {
@@ -245,7 +283,8 @@
   "extra": {
     "ssa": {
       "host": "ssa-static",
-      "path": "prod/mobile-app-ota/android"
+      "path": "prod/mobile-app-ota/android",
+      "launchAsset": "direct"
     }
   }
 }
