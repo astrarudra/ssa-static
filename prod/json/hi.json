@@ -29,7 +29,9 @@
         "donateIfsc": "IFSC कोड",
         "donateSwift": "SWIFT कोड",
         "donateBank": "बैंक एवं शाखा",
-        "copied": "कॉपी हो गया!"
+        "copied": "कॉपी हो गया!",
+        "storeUpdateMessage": "ऐप का नया वर्जन स्टोर पर उपलब्ध है।",
+        "storeUpdateAction": "अपडेट"
     },
     "pages": {
         "home": "होम",
